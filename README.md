@@ -1,10 +1,6 @@
 # QCatBox
 
 <p align="center">
-  <img src="logo.png" alt="QCatBox Logo" width="120"/>
-</p>
-
-<p align="center">
   七猫免费小说 · 安卓下载器
 </p>
 
